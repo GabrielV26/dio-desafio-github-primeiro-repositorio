@@ -1,0 +1,2 @@
+Link para download do github desktop: https://desktop.github.com/
+- O GitHub Desktop é um aplicativo que permite que você interaja com o GitHub usando uma GUI em vez da linha de comando ou de um navegador web.
